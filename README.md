@@ -34,8 +34,6 @@ The Tesla Tequila bottle showcases the company's flair for innovative and striki
 The Tesla Shot Glass Set features a design that is both elegant and futuristic. Each glass is crafted with precision, bearing subtle Tesla branding that adds a touch of sophistication. The set is housed in a custom stand that echoes the angular design language of the Cybertruck, creating a cohesive aesthetic experience. This attention to detail in even small accessories underscores Tesla's commitment to high-quality design across all its products.
 
 #
-> Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
-#
 #### Tesla Vehicle and Product Design Traits
 
 1. Innovative
@@ -90,6 +88,8 @@ The Tesla Shot Glass Set features a design that is both elegant and futuristic. 
 
 #
 ![Tesla Robots](https://github.com/user-attachments/assets/85c6d3d6-e369-4b21-8189-aae0cbaf6583)
+#
+> Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
 #
 ### Related Links
 
