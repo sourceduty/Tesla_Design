@@ -36,8 +36,6 @@ The Tesla Shot Glass Set features a design that is both elegant and futuristic. 
 #
 > Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
 #
-![Tesla Slate](https://github.com/user-attachments/assets/8540d814-70d6-46e7-9221-df9dfe755341)
-#
 #### Tesla Vehicle and Product Design Traits
 
 1. Innovative
