@@ -108,6 +108,10 @@ The Tesla Shot Glass Set features a design that is both elegant and futuristic. 
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Tesla Slate Keychain](https://cults3d.com/en/3d-model/jewelry/tesla-motors-fan-art-logo-slate-keychain-sourceduty)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Luxury Design](https://github.com/sourceduty/Luxury_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
