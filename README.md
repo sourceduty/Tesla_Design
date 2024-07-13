@@ -43,47 +43,47 @@ The Tesla Shot Glass Set features a design that is both elegant and futuristic. 
 - Cutting-edge technology
 - Futuristic design
 
-3. Sustainable
+2. Sustainable
    
 - Use of renewable energy
 - Eco-friendly materials
 
-5. Durable
+3. Durable
    
 - High-strength materials
 - Long-lasting products
 
-7. Minimalistic
+4. Minimalistic
    
 - Clean, simple aesthetics
 - Reduced use of physical buttons and switches
 
-9. Efficient
+5. Efficient
     
 - Fast-charging solutions
 - High performance
 
-10. Stylish
+6. Stylish
     
 - Sleek, modern look
 - Unique and striking designs
 
-11. User-friendly
+7. User-friendly
     
 - Intuitive interfaces
 - Convenient and practical features
 
-12. Luxurious
+8. Luxurious
     
 - High-quality materials
 - Comfortable and ergonomic interiors
 
-13. Technologically Advanced
+9. Technologically Advanced
     
 - Integrated smart features
 - Continuous software updates
 
-14. Distinctive
+10. Distinctive
     
 - Recognizable design language
 - Strong brand identity
