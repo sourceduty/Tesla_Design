@@ -99,7 +99,7 @@ The Tesla Shot Glass Set features a design that is both elegant and futuristic. 
 <br>
 [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
 <br>
-[EW](https://github.com/sourceduty/EV)
+[EV](https://github.com/sourceduty/EV)
 <br>
 [EV Charging](https://github.com/sourceduty/EV_Charging)
 <br>
