@@ -119,7 +119,11 @@ The "Tesla Easter Egg" product is not just a visually appealing item but also a 
 #
 ![Tesla Robots](https://github.com/user-attachments/assets/85c6d3d6-e369-4b21-8189-aae0cbaf6583)
 #
+
 > Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
+
+> "*It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy the minimalist products.*"
+
 #
 ### Related Links
 
