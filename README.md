@@ -9,6 +9,17 @@ Tesla's design language across all its products creates a strong and cohesive br
 Sustainability is a core principle in Tesla's design philosophy. The use of sustainable materials and energy-efficient manufacturing processes is evident in all Tesla products. The Cybertruck's stainless steel body, for example, is designed for longevity, reducing the need for frequent replacements and thus minimizing environmental impact. Tesla's focus on electric power and renewable energy solutions further reinforces its commitment to creating a sustainable future.
 
 #
+### Sexy Lineup
+
+![Tesla Vehicles](https://github.com/user-attachments/assets/3eb4c9f2-ac14-422d-b6bf-00f154ec9494)
+
+Tesla's vehicle model lineup, often referred to as "SEXY" for the first letters of its core models (S, 3, X, and Y), reflects the company's strategic approach to electric vehicle (EV) production. The Model S, representing the premium sedan, is designed for long-range performance with a sleek design and powerful acceleration. It has become synonymous with luxury and cutting-edge technology, showcasing features like Autopilot and over-the-air software updates. The Model 3, on the other hand, represents Tesla’s more affordable offering, appealing to a wider market with a balance between performance, range, and price. As the most popular Tesla model, the Model 3 has played a key role in making electric vehicles more mainstream.
+
+The Model X is Tesla's luxury SUV, featuring distinctive falcon-wing doors and a spacious interior with options for up to seven passengers. It combines family-friendly practicality with high performance, offering impressive acceleration and range for its size. Alongside it, the Model Y, a compact crossover SUV, caters to those who want a slightly smaller vehicle while retaining much of the functionality and versatility of an SUV. The Model Y shares many components with the Model 3, making it an efficient choice for Tesla to produce and for customers seeking a balance between space and agility.
+
+Beyond the "SEXY" lineup, Tesla has also made headlines with its truck offerings. The Cybertruck, an angular, futuristic electric truck, is designed for durability and off-road performance, with a high level of utility for work or recreational use. Tesla is also developing the Tesla Semi, a fully electric class-8 truck aimed at revolutionizing the freight industry by reducing emissions and providing long-range capabilities with lower operational costs compared to traditional diesel trucks. Both of these trucks emphasize Tesla’s ambition to innovate in multiple vehicle categories, contributing to its broader mission of accelerating the transition to sustainable energy.
+
+#
 #### Cybertruck Design
 
 ![Cybertruck](https://github.com/user-attachments/assets/6d185284-9ca1-4bc1-a649-8f00642ddb08)
