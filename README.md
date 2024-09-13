@@ -48,6 +48,8 @@ The Cybertruck, with its rugged design and high ground clearance, stands in a cl
 #
 ### Tesla Vehicle Improvement Value
 
+![Tesla](https://github.com/user-attachments/assets/a547ad3a-b414-4b03-994e-9ed91b150f23)
+
 Measuring the improvement value in Tesla's models, both physical and digital, from launch to the present can be assessed by focusing on the four key dimensions: usability, efficiency, satisfaction, and impact.
 
 From the launch of the original Tesla Roadster to the present-day Model S, Model 3, Model X, Model Y, and the upcoming Cybertruck, Tesla has continuously improved the usability of its vehicles. Early models had relatively simpler interfaces and driving experiences, while newer models feature significantly more intuitive touchscreen controls, voice commands, and AI-assisted driving features such as Autopilot and Full Self-Driving (FSD) capabilities. Digital updates, including over-the-air (OTA) software updates, allow Tesla owners to receive improvements without visiting a service center, enhancing convenience and interaction. The physical design of newer models, such as the Tesla Model 3's minimalistic interior, also demonstrates an evolution in reducing unnecessary complexity in the cabin, improving ease of use.
