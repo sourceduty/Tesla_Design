@@ -126,6 +126,8 @@ The "Tesla Easter Egg" product is not just a visually appealing item but also a 
 #
 ![Logo](https://github.com/user-attachments/assets/d758396f-96a6-4b20-8083-ac2e5149dc78)
 #
+![SLATE](https://github.com/user-attachments/assets/88e90896-5853-45a8-a9ec-025ccf1eb292)
+#
 
 > Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
 
