@@ -124,6 +124,8 @@ The "Tesla Easter Egg" product is not just a visually appealing item but also a 
 #
 ![Tesla Robots](https://github.com/user-attachments/assets/85c6d3d6-e369-4b21-8189-aae0cbaf6583)
 #
+![Teslas](https://github.com/user-attachments/assets/41da7b2c-bda9-4da8-baa5-f62950b992d4)
+#
 ![Logo](https://github.com/user-attachments/assets/d758396f-96a6-4b20-8083-ac2e5149dc78)
 #
 ![SLATE](https://github.com/user-attachments/assets/88e90896-5853-45a8-a9ec-025ccf1eb292)
