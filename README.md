@@ -1,4 +1,4 @@
-![Tesla Design](https://github.com/user-attachments/assets/40504539-a5db-4fc2-a537-d9a85a19dae2)
+https://github.com/user-attachments/assets/d401b833-b887-4eb8-9c50-87ec73c1d036
 
 > Tesla Motors vehicles and products.
 
@@ -70,6 +70,10 @@ Tesla's impact on the automotive industry is profound, having set new benchmarks
 | Model 3            | 2017        | 220                     | 358                   | Minimalist interior, more affordable design      | Full-Self Driving, improved UI                   |
 | Model Y            | 2020        | 316                     | 330                   | Compact SUV design, efficient space utilization  | Enhanced Autopilot, regular software updates     |
 | Cybertruck         | Expected 2024| N/A                     | 500+ (estimated)      | Futuristic design, bulletproof exoskeleton       | FSD, customizable software features              |
+
+#
+
+![Tesla Design](https://github.com/user-attachments/assets/40504539-a5db-4fc2-a537-d9a85a19dae2)
 
 #
 ### Interior Design of Tesla Vehicles
