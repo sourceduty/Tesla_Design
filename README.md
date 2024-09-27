@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/d401b833-b887-4eb8-9c50-87ec73c1d036
+![Cyber](https://github.com/user-attachments/assets/560e4213-448b-4dee-942f-50afcd5f6525)
 
 > Tesla Motors vehicles and products.
 
