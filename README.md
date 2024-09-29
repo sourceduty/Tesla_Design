@@ -26,6 +26,10 @@ Beyond the "SEXY" lineup, Tesla has also made headlines with its truck offerings
 
 The Tesla Cybertruck's design is revolutionary and stands out with its bold and futuristic aesthetics. Its angular, stainless steel exoskeleton is not just a design choice but a functional feature, providing superior strength and durability. This unique design ensures the vehicle is highly resistant to dents, damage, and corrosion, setting it apart from traditional trucks. The Cybertruck's sharp lines and minimalist approach reflect a departure from conventional automotive design, emphasizing Tesla's commitment to innovation and utility.
 
+As of September 2024, Tesla's Cybertruck has sold approximately 12,000 to 13,000 units. While these numbers may seem moderate, the Cybertruck's rapid production ramp-up is notable compared to other electric trucks. For instance, in July 2024 alone, over 5,000 Cybertrucks were registered, marking a 61% month-over-month increase. In contrast, all other electric pickups combined, including popular models like the Rivian R1T and Ford F-150 Lightning, sold just about 5,500 units that same month.
+
+When comparing the Cybertruck to Tesla’s own lineup, it lags behind Tesla's more established models in overall sales. For example, Tesla's Model Y remains the company’s best-selling vehicle, with hundreds of thousands of units sold globally each year. However, the Cybertruck operates in a different market, targeting the pickup truck sector, which Tesla hadn’t previously entered. Production is expected to increase to a rate of 2,500 Cybertrucks per week by the end of 2024, positioning it for significantly higher sales​.
+
 ##### Cybertruck Improvement Value
 
 The Tesla Cybertruck's revolutionary design brings significant physical improvements in terms of durability and usability. Its angular, stainless steel exoskeleton is not only a bold aesthetic choice but also a practical one, providing superior strength and resistance to dents, damage, and corrosion. This design feature enhances the usability of the vehicle, making it more durable and capable of withstanding harsh environments, such as construction sites or off-road terrains. By reducing the frequency of repairs and maintenance, the Cybertruck offers a practical advantage for users who need a reliable and long-lasting vehicle.
@@ -33,6 +37,15 @@ The Tesla Cybertruck's revolutionary design brings significant physical improvem
 In terms of efficiency, the Cybertruck’s design introduces several cost-saving and performance-enhancing benefits. The stainless steel exterior reduces the need for constant maintenance, minimizing downtime and repair costs. Moreover, the minimalist and angular design may simplify the manufacturing process, potentially reducing production time and costs compared to traditional truck models. These efficiency gains not only translate into cost savings for Tesla but also for the consumer, who benefits from lower long-term ownership costs due to the vehicle’s robust, low-maintenance build.
 
 The impact of the Cybertruck’s design extends beyond functionality and cost savings, influencing the broader automotive market. Its futuristic aesthetics and utility-driven design challenge conventional truck designs, positioning Tesla as a leader in automotive innovation. This unique approach appeals to a segment of consumers who prioritize innovation, utility, and differentiation, leading to increased brand loyalty and market share for Tesla. Furthermore, the Cybertruck’s success could inspire competitors to adopt similar materials and design philosophies, ultimately shaping the future of automotive design.
+
+#
+### Die-Cast Aluminum
+
+![Casted](https://github.com/user-attachments/assets/333cdc83-bd9d-4955-b1c6-66ed3029043d)
+
+Aluminum die-cast parts have become essential for electric vehicles (EVs) like Tesla's Cybertruck, offering a combination of light weight, strength, and efficiency. Tesla has employed a Giga Press, an enormous die-casting machine, to create large, single-piece aluminum components, such as the front and rear underbodies. This manufacturing process significantly reduces the number of parts, resulting in faster production, reduced assembly complexity, and lighter vehicle weight, which improves overall vehicle range and performance. By eliminating the need for multiple smaller parts, Tesla's use of the Giga Press also lowers material waste and enhances the structural integrity of the vehicle, contributing to a more durable EV frame.
+
+Other automotive companies have also recognized the advantages of using large-scale aluminum die casting for EV production. Companies like BMW, Rivian, and Lucid Motors are exploring similar technologies to improve vehicle efficiency and reduce manufacturing costs. The use of advanced aluminum alloys in die casting enables the creation of strong, lightweight components that are highly resistant to corrosion. These advantages are critical for EV manufacturers, where reducing vehicle weight directly impacts battery performance and range. As the demand for EVs grows, large-scale aluminum die-casting technology is likely to become a key innovation in the automotive industry, pushing the boundaries of manufacturing efficiency and sustainability.
 
 #
 ### On-Road and Off-Road Vehicles
