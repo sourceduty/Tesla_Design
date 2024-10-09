@@ -1,4 +1,4 @@
-![Cyber](https://github.com/user-attachments/assets/560e4213-448b-4dee-942f-50afcd5f6525)
+![Tesla Slate](https://github.com/user-attachments/assets/42663b2c-c5dc-467e-8665-9f115221cb03)
 
 > Tesla Motors vehicles and products.
 
