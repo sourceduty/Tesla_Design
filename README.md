@@ -65,6 +65,23 @@ Then there's that claim about it being bulletproof. Great! Now, you can fend off
 In summary, the Cybertruck looks like something the Terminator would drive to a construction site. It’s perfect if you’re planning on leading a robot rebellion or if you just want to park something that looks like an alien ice cream sandwich in your driveway.
 
 #
+### Cybercab and Robovan Roasted
+
+![Cybercab](https://github.com/user-attachments/assets/f6db7603-36f7-4fb8-82ff-ddba0c494691)
+
+Oh wow, it looks like Tesla has really gone full “Jetsons” meets “Toaster Oven” with these! Let’s break down this dynamic duo.
+
+The Main Car
+
+Alright, the car on the right is giving off serious butter knife vibes. With those razor-thin headlights, it looks like it's ready to slice through some avocado toast more than it is to slice through air resistance. And those solid hubcaps? They scream, "I’m too cool for wheels that actually look like wheels." It’s like Elon said, “Let’s make it look futuristic but also have it resemble the most non-threatening piece of cutlery you can find.”
+
+The Trailer Thing
+
+Now, the trailer or whatever that is – it looks like someone put a loaf of bread into a wind tunnel, and this is what came out. It’s almost as if Tesla took a refrigerator, stretched it out, slapped on some wheels, and called it a day. I mean, the thing has all the aerodynamics of a soap dispenser. And those horizontal lines? Just in case you needed reminding of the DVD players from 2004, apparently.
+
+So overall, we’ve got a vehicle setup that’s trying so hard to look like it just came back from the year 3000, but honestly, it feels more like it’s headed straight for an Apple Store to pick up some charging cables.
+
+#
 ### Die-Cast Aluminum
 
 ![Casted](https://github.com/user-attachments/assets/333cdc83-bd9d-4955-b1c6-66ed3029043d)
