@@ -217,6 +217,8 @@ Integrating RTC into Tesla Vision would enable a form of collective intelligence
 
 > Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
 
+> "*Brand consistency is appealing to a collector of an entire product lineup which isn't every customer."
+
 > "*It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy or sell the minimalist products.*"
 
 #
