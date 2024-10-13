@@ -212,6 +212,8 @@ Integrating RTC into Tesla Vision would enable a form of collective intelligence
 #
 ![SLATE](https://github.com/user-attachments/assets/88e90896-5853-45a8-a9ec-025ccf1eb292)
 #
+![Tesla Ford Ad](https://github.com/user-attachments/assets/69140801-1550-4f62-9e3a-5a5d99331553)
+#
 
 > Alex: "*Tesla is mostly inconsistent with it's unique vehicle and product designs.*"
 
