@@ -208,6 +208,8 @@ Integrating RTC into Tesla Vision would enable a form of collective intelligence
 #
 ![Logo](https://github.com/user-attachments/assets/d758396f-96a6-4b20-8083-ac2e5149dc78)
 #
+![Cybertesla](https://github.com/user-attachments/assets/70f0b7de-7bea-4149-825f-f19172d05fce)
+#
 ![SLATE](https://github.com/user-attachments/assets/88e90896-5853-45a8-a9ec-025ccf1eb292)
 #
 
