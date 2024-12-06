@@ -251,6 +251,8 @@ Integrating RTC into Tesla Vision would enable a form of collective intelligence
 [Vehicle Roast](https://github.com/sourceduty/Vehicle_Roast)
 <br>
 [Ultra Red](https://github.com/sourceduty/Ultra_Red)
+<br>
+[EV Upgrade](https://github.com/sourceduty/EV_Upgrade)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
